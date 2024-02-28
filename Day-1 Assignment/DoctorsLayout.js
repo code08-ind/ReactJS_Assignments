@@ -91,4 +91,4 @@ const DoctorsLayout = () => {
     );
 }
 
-export default Layout;
+export default DoctorsLayout;

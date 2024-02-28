@@ -1,0 +1,7 @@
+In React.js, keys are used to help React identify which items have changed, been added, or removed in a list. Below given are some steps in which they are used in processing inside the array.
+
+1. Keys are provided to elements inside an array to provide them an identity.
+2. Most often, IDs from our data are used as keys for elements in the array.
+3. Keys must be unique among themselves but need not be unique globally.
+4. Keys should be added to the top-level elements of the list, not child elements.
+5. The best practice to use the keys are the unique numbers or strings with unique characters.

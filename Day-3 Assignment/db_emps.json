@@ -1,0 +1,39 @@
+{
+  "emps": [
+    {
+      "empno": 101,
+      "empname": "James",
+      "empjob": "Analyst",
+      "empsal": "50000",
+      "deptno": "19"
+    },
+    {
+      "empno": 102,
+      "empname": "Smith",
+      "empjob": "Consultant",
+      "empsal": "100000",
+      "deptno": 12
+    },
+    {
+      "empno": 103,
+      "empname": "Travis",
+      "empjob": "Analyst",
+      "empsal": "50000",
+      "deptno": 16
+    },
+    {
+      "empno": 104,
+      "empname": "Stuart",
+      "empjob": "Sr. Consultant",
+      "empsal": "150000",
+      "deptno": 11
+    },
+    {
+      "empno": "105",
+      "empname": "Scott",
+      "empjob": "Analyst",
+      "empsal": "50000",
+      "deptno": "9"
+    }
+  ]
+}
